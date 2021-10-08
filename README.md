@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=danielpfernandes&hide=php)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=danielpfernandes&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api?username=danielpfernandes">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=danielpfernandes&count_private=true&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=9&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=10">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=10&layout=compact" />
 </a>
 </div>
 
