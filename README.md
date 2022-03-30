@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a groundbreaking BSS project on Ericsson
-- 🌱 I’m currently learning Data Science, blockchain algorithms for secure communication, R 
+- 🔭 I’m currently working on the application of blockchain frameworks in FANET communication
+- 🌱 I’m currently learning Data Science, consensus algorithms for secure communication, R 
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about anything
 - 📫 How to reach me: 
