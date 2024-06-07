@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 -->
 
-##  🎓 I'm an MSc Computer Science student at the Federal University of Itajubá
-- 🔭 I’m currently working on a data driven project in a big Automotive Company
-- 🌱 I’m currently learning Data Science, blockchain algorithms for secure communication, R 
+##  🎓 I'm an MSc Computer Science Senior Software Engineer and Tech Lead
+- 🔭 I’m currently working on a data-driven project in a big Automotive Company, with Scala, Java, Python, Spark, Spring, React, Hadoop (and the list goes on...)
+- 🌱 I’m currently developing solutions with Data Science, blockchain algorithms for secure communication
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about anything
 
