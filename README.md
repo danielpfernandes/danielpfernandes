@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 
 ## 📫 How to reach me:
-<!--
-[<img align="left" alt="danielpfernandes GitHub" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="danielpfernandes LinkedIn | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="danielpfernandes e-mail | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
 
 <p align="center">
  <a href="https://danielpfernandes.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -36,21 +31,25 @@ Here are some ideas to get you started:
 
 ## :trophy: My Github Stats:
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=danielpfernandes&count_private=true&show_icons=true)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=danielpfernandes&hide=php)
--->
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=danielpfernandes">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=danielpfernandes&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&card_width=300" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=10&layout=compact&card_width=270" />
-</a>
-<a href="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpfernandes&theme=default&hide_border=true&hide_longest_streak=true&card_width=300">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpfernandes&theme=default&hide_longest_streak=true&hide_current_streak=false&card_width=150" />
-</a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github-readme-stats.vercel.app/api?username=danielpfernandes">
+        <img src="https://github-readme-stats.vercel.app/api?username=danielpfernandes&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github-readme-streak-stats.herokuapp.com/?user=danielpfernandes&theme=default&hide_border=true&hide_longest_streak=true&card_width=300">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielpfernandes&theme=default&hide_border=true&hide_longest_streak=true&card_width=300" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=10">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=10&layout=compact&card_width=260&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 [website]: https://danielpfernandes.github.io/
 [linkedin]: https://linkedin.com/in/paivafernandes
