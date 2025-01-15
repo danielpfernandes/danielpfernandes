@@ -1,24 +1,6 @@
 ### Hi there 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=danielpfernandes.danielpfernandes) [![Github](https://img.shields.io/github/followers/danielpfernandes?label=Followers&logo=Github)](https://github.com/danielpfernandes)
 
-<!--
-**danielpfernandes/danielpfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on the application of blockchain frameworks in FANET communication
-- 🌱 I’m currently learning Data Science, consensus algorithms for secure communication, R 
-- 👯 I’m looking to collaborate on any project
-- 💬 Ask me about anything
-- 📫 How to reach me: 
--->
-
-##  🎓 I'm an MSc Computer Science Senior Software Engineer and Tech Lead
-- 🔭 I’m currently working on a data-driven project in a big Automotive Company, with Scala, Java, Python, Spark, Spring, React, Hadoop (and the list goes on...)
-- 🌱 I’m currently developing solutions with Data Science, blockchain algorithms for secure communication
-- 👯 I’m looking to collaborate on any project
-- 💬 Ask me about anything
-
 ## 📫 How to reach me:
 
 <p align="center">
