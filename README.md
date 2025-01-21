@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github-readme-stats.vercel.app/api?username=danielpfernandes">
-        <img src="https://github-readme-stats.vercel.app/api?username=danielpfernandes&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true" />
+      <a href="https://github-readme-stats.vercel.app/api?username=danielpfernandes&count_private=true&show_icons=true&hide_border=true&hide_rank=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=danielpfernandes&count_private=true&show_icons=true&hide_border=true&hide_rank=true" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github-readme-streak-stats.herokuapp.com/?user=danielpfernandes&theme=default&hide_border=true&hide_longest_streak=true&card_width=300">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielpfernandes&theme=default&hide_border=true&hide_longest_streak=true&card_width=300" />
-      </a>
-    </td>
+    <!--td align="center">
+      <a href="https://git.io/streak-stats">
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=danielpfernandes&hide_border=true&card_width=300&hide_longest_streak=true" />
+    </a>
+  </td-->
     <td align="center">
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=10">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpfernandes&langs_count=10&layout=compact&card_width=260&hide_border=true" />
