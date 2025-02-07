@@ -11,7 +11,7 @@
 
 <br />
 
-## :trophy: My Github Stats:
+## :trophy: My Github Stats (for public Repos):
 
 <table>
   <tr>
