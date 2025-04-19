@@ -56,6 +56,9 @@ I'm an IT professional focused on cybersecurity and software development. Passio
   <a href="https://www.credly.com/badges/e0134d94-0b5d-4e33-bc62-b90bce05f468" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/fc7a7fc0-856d-48db-804f-ea33d158daf0/image.png" width="100" alt="AttackIQ FAIS" title="AttackIQ Foundations of Adversary Emulation"/>
   </a>
+  <a href="https://www.credly.com/badges/9f8367a3-0b18-435d-adb2-7d80afb85cc4/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/cfc6d0bb-a517-4395-95e2-a95cc2213556/blob" width="100" alt="LFEL1001: Understanding the EU Cyber Resilience Act (CRA)" title="LFEL1001: Understanding the EU Cyber Resilience Act (CRA)"/>
+  </a>
   <a href="https://www.credly.com/badges/1f386f7a-c9e0-4dcd-a3a8-89214686916e" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" width="100" alt="IBM Docker Essentials" title="IBM Docker Essentials"/>
   </a>
@@ -70,12 +73,12 @@ I'm an IT professional focused on cybersecurity and software development. Passio
   </a>
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api?username=danielpfernandes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" />
   <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api/top-langs/?username=danielpfernandes&count_private=true&langs_count=6&layout=compact&hide=&theme=tokyonight&hide_border=true" />
-</div>
+</div> -->
 
 ---
 
