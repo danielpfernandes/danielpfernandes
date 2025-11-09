@@ -86,8 +86,8 @@ I'm an IT professional focused on cybersecurity and software development. Passio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api?username=danielpfernandes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
-  <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api/top-langs/?username=danielpfernandes&count_private=true&langs_count=6&layout=compact&hide=&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api?username=danielpfernandes&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs" />
+  <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api/top-langs/?username=danielpfernandes&count_private=true&langs_count=6&layout=compact&hide=&theme=transparent&hide_border=true" />
 </div>
 
 ---
