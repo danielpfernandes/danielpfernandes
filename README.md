@@ -83,12 +83,12 @@ I'm an IT professional focused on cybersecurity and software development. Passio
     <img src="https://images.credly.com/size/110x110/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="100" alt="AWS Educate Introduction to Cloud 101 - Training Badge" title="AWS Educate Introduction to Cloud 101 - Training Badge"/>
 </div>
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api?username=danielpfernandes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" />
+  <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api?username=danielpfernandes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-statistics-inky.vercel.apP/api/top-langs/?username=danielpfernandes&count_private=true&langs_count=6&layout=compact&hide=&theme=tokyonight&hide_border=true" />
-</div> -->
+</div>
 
 ---
 
