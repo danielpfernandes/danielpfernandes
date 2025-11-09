@@ -66,10 +66,10 @@ I'm an IT professional focused on cybersecurity and software development. Passio
     <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="100" alt="Cisco Python Essentials I" title="Cisco Python Essentials I"/>
   </a>
   <a href="https://www.credly.com/badges/55cc6ec7-c616-47fc-98cf-3201680b7770/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" width="100" alt="AWS Educate Getting Started with Serverless" title="AWS Educate Getting Started with Serverless"/>
+    <img src="https://images.credly.com/size/340x340/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" width="100" alt="AWS Educate Getting Started with Serverless" title="AWS Educate Getting Started with Serverless"/>
   </a>
   <a href="https://www.credly.com/badges/5057c202-baae-4e72-addc-1beb7024e1cf/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" width="100" alt="AWS Educate Introduction to Generative AI" title="AWS Educate Introduction to Generative AI"/>
+    <img src="https://images.credly.com/size/340x340/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="100" alt="AWS Educate Introduction to Generative AI" title="AWS Educate Introduction to Generative AI"/>
   </a>
 </div>
 
