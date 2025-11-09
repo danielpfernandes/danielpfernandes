@@ -71,6 +71,16 @@ I'm an IT professional focused on cybersecurity and software development. Passio
   <a href="https://www.credly.com/badges/5057c202-baae-4e72-addc-1beb7024e1cf/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="100" alt="AWS Educate Introduction to Generative AI" title="AWS Educate Introduction to Generative AI"/>
   </a>
+    <a href="https://www.credly.com/badges/d260fdb1-ebc4-4a47-96c4-646847b1052c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" width="100" alt="AWS Educate Getting Started with Security - Training Badge" title="AWS Educate Getting Started with Security - Training Badge"/>
+  </a>
+    </a>
+    <a href="https://www.credly.com/badges/28e5dffa-4214-4228-ba93-92e98844682b/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" width="100" alt="AWS Educate Getting Started with Storage - Training Badge" title="AWS Educate Getting Started with Storage - Training Badge"/>
+  </a>
+    </a>
+    <a href="https://www.credly.com/badges/ea6b1020-9c6c-44a4-906c-f22441566063/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="100" alt="AWS Educate Introduction to Cloud 101 - Training Badge" title="AWS Educate Introduction to Cloud 101 - Training Badge"/>
 </div>
 
 <!-- ## 📊 GitHub Stats
