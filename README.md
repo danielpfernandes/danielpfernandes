@@ -85,13 +85,7 @@ I'm an IT professional focused on cybersecurity and software development. Passio
   </a>
   <a href="https://www.credly.com/badges/510c8480-1e01-4d18-8fd1-f156ec8de805" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/8f006312-3154-45bf-a845-4a043641e83c/blob" width="100" alt="AWS Partner: Technical Trained" title="Professional Scrum Master I"/>
-  </a>
-  <a href="https://www.credly.com/badges/874ffc07-f84f-4319-bd98-c543c18e7cc9/public_url" target="_blank">
-    <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" title="AWS Cloud Quest: Cloud Practitioner - Training Badge"/>
-  </a>
-  <a href="https://www.credly.com/badges/53e091c9-1d78-4aea-98c8-b4074ba6fab5/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="100" alt="AWS Cloud Quest: Generative AI Practitioner - Training Badge" title="AWS Cloud Quest: Generative AI Practitioner - Training Badge"/>
-  </a>
+  
   <a href="https://www.credly.com/badges/55cc6ec7-c616-47fc-98cf-3201680b7770/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" width="100" alt="AWS Educate Getting Started with Serverless" title="AWS Educate Getting Started with Serverless"/>
   </a>
