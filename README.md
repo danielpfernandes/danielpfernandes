@@ -68,6 +68,9 @@ I'm an IT professional focused on cybersecurity and software development. Passio
   <a href="https://www.credly.com/badges/9f8367a3-0b18-435d-adb2-7d80afb85cc4/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/cfc6d0bb-a517-4395-95e2-a95cc2213556/blob" width="100" alt="LFEL1001: Understanding the EU Cyber Resilience Act (CRA)" title="LFEL1001: Understanding the EU Cyber Resilience Act (CRA)"/>
   </a>
+  <a href="https://www.credly.com/badges/d2f7b85f-a719-4ca9-aec0-e32105458936/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob" width="100" alt="LFEL1011: OpenAPI Fundamentals" title="LFEL1011: OpenAPI Fundamentals"/>
+  </a>
   <a href="https://www.credly.com/badges/1f386f7a-c9e0-4dcd-a3a8-89214686916e" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" width="100" alt="IBM Docker Essentials" title="IBM Docker Essentials"/>
   </a>
@@ -85,7 +88,7 @@ I'm an IT professional focused on cybersecurity and software development. Passio
   </a>
   <a href="https://www.credly.com/badges/510c8480-1e01-4d18-8fd1-f156ec8de805" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/8f006312-3154-45bf-a845-4a043641e83c/blob" width="100" alt="AWS Partner: Technical Trained" title="Professional Scrum Master I"/>
-  
+
   <a href="https://www.credly.com/badges/55cc6ec7-c616-47fc-98cf-3201680b7770/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" width="100" alt="AWS Educate Getting Started with Serverless" title="AWS Educate Getting Started with Serverless"/>
   </a>
