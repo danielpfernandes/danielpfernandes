@@ -71,6 +71,9 @@ I'm an IT professional focused on cybersecurity and software development. Passio
   <a href="https://www.credly.com/badges/1f386f7a-c9e0-4dcd-a3a8-89214686916e" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" width="100" alt="IBM Docker Essentials" title="IBM Docker Essentials"/>
   </a>
+  <a href="https://www.credly.com/badges/4bc80eb1-f5d1-4dc1-baea-e3d02913cdd2" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/82966826-6630-4768-80d4-6028b3fab414/image.png" width="100" alt="IBM Containers & Kubernetes Essentials" title="IBM Containers & Kubernetes Essentials"/>
+  </a>
   <a href="https://www.credly.com/badges/14816adc-fd28-41b6-aadd-e699eea0b35d" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="100" alt="Cisco Python Essentials I" title="Cisco Python Essentials I"/>
   </a>
@@ -82,6 +85,12 @@ I'm an IT professional focused on cybersecurity and software development. Passio
   </a>
   <a href="https://www.credly.com/badges/510c8480-1e01-4d18-8fd1-f156ec8de805" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/8f006312-3154-45bf-a845-4a043641e83c/blob" width="100" alt="AWS Partner: Technical Trained" title="Professional Scrum Master I"/>
+  </a>
+  <a href="https://www.credly.com/badges/874ffc07-f84f-4319-bd98-c543c18e7cc9/public_url" target="_blank">
+    <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" title="AWS Cloud Quest: Cloud Practitioner - Training Badge"/>
+  </a>
+  <a href="https://www.credly.com/badges/53e091c9-1d78-4aea-98c8-b4074ba6fab5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="100" alt="AWS Cloud Quest: Generative AI Practitioner - Training Badge" title="AWS Cloud Quest: Generative AI Practitioner - Training Badge"/>
   </a>
   <a href="https://www.credly.com/badges/55cc6ec7-c616-47fc-98cf-3201680b7770/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" width="100" alt="AWS Educate Getting Started with Serverless" title="AWS Educate Getting Started with Serverless"/>
